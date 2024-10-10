@@ -1,0 +1,9 @@
+ul{
+    display: flex;
+    list-style-type: none;
+}
+
+nav > div{
+    width: 33%;
+}
+
