@@ -5,9 +5,22 @@ nav{
 
 nav > div{
     width: 33%;
+    text-align: center;
 }
 
 .resize img{
     width: 150px;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+
+}
+
+li{
+    color: black;
+    font-size: 14pt;
+    padding: 20px;
 }
 
